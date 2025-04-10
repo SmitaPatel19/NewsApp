@@ -19,7 +19,7 @@ A fully functional **Flutter news application** built for internship evaluation.
 - `webview_flutter` – for full article viewing
 - `cached_network_image` – for optimized image loading
 
-## 🔑 How to Set Your API Key
+## 🔑 How to Set API Key
 This app uses a public news API (NewsAPI). To replace the API key:
 
 1. Go to lib/utils/api_key.dart
