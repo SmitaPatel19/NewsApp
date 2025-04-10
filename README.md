@@ -32,7 +32,7 @@ This app uses a public news API (NewsAPI). To replace the API key:
 
 1. Clone the project:
    ```bash
-   git clone https://github.com/your-username/newsapp.git
+   git clone https://github.com/SmitaPatel19/NewsApp
    cd newsapp
    ```
 
