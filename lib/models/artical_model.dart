@@ -15,6 +15,7 @@ class NewsArticle {
     required this.url,
   });
 
+
   factory NewsArticle.fromJson(Map<String, dynamic> json) {
     return NewsArticle(
       headline: json['title'] ?? '',
