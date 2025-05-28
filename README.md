@@ -24,7 +24,7 @@ This app uses a public news API (NewsAPI). To replace the API key:
 
 1. Go to lib/utils/api_key.dart
 
-2. Replace 'API_KEY' with your own key from the news API provider.
+2. Replace 'API_KEY' with your own key from the news API provider (like 48095a3b78724b82be0e658654ca1cf6).
 
 🔗 You can get a free API key from https://newsapi.org
 
