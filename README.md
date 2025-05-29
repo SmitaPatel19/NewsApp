@@ -55,6 +55,21 @@ This app uses a public news API (NewsAPI). To replace the API key:
 
 You can find the built APK in `/build/app/outputs/flutter-apk/app-release.apk`.
 
+---
+
+## 🤝 Contributing  
+
+Got an idea? Found a bug? Feel free to **contribute**! Fork this repo, make your changes, and submit a pull request. Contributions are always welcome. 🙌  
+
+---
+
+## 🎉 Acknowledgements  
+
+A huge shoutout to the **Flutter** team for making such awesome tools! 🚀  
+
+If you like this project, don’t forget to **⭐ Star** the repo! 😊  
+
+---
 ## 🙋‍♂️ About Me
 
 This app was built as part of my Flutter learning journey and internship task. It demonstrates core Flutter concepts like UI building, state management, API integration, and navigation.
